@@ -38,7 +38,7 @@ faculty-connect-system/
 
 ## 🧠 Geliştirici Notları
 
-Bu proje, Yönetim Bilişim Sistemleri öğrencisi [Miss.Luna](https://github.com/SnBakan) tarafından planlanmış ve tasarlanmıştır. Proje henüz MVP (Minimum Viable Product) seviyesinde olup genişletilebilir bir yapıya sahiptir.
+Bu proje, Yönetim Bilişim Sistemleri öğrencisi [Şeyma Nur BAKAN](https://github.com/SnBakan) tarafından planlanmış ve tasarlanmıştır. Proje henüz MVP (Minimum Viable Product) seviyesinde olup genişletilebilir bir yapıya sahiptir.
 
 ## 📄 Lisans
 
