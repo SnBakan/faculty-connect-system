@@ -1,1 +1,1 @@
-
+Hazırlanan Mackuplar
